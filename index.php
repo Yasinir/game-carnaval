@@ -1,1 +1,1 @@
-
+<?php include ("database.php")?>
